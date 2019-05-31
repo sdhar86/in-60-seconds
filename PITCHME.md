@@ -2,22 +2,19 @@
 
 ---
 
-@snap[north-west]
-#### Tech Stack
-@snapend
+@title[Front End Tech Stack]
+### FrontEnd Tech Stack
 
-@snap[west span-50]
-##### Front End
-@ul[spaced text-white]
 - React 
 - Redux for state management 
 - Hosted on Amazon s3 
-@ulend
-@snapend
 
-@snap[west span-50]
-##### Back End
-@ul[spaced text-white]
+
+---
+
+@title[Backend Tech Stack]
+### Backend Tech Stack
+
 - Ruby/Rails 
 - Postgres
 - Redshift 
@@ -26,10 +23,10 @@
 - Hosted on AWS EC2
 - Assets hosted on AWS s3 
 - Managed by Cloud66
-@ulend
-@snapend
+
 
 ---
+
 
 ## Add Some Slide Candy
 
