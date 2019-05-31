@@ -2,42 +2,40 @@
 
 ---
 
-## Tech Stack 
+@snap[north-west]
+#### Tech Stack
+@snapend
 
 @snap[west span-50]
-@ul[square-bullets](false)
-
-- Plain text list item
-- Rich **markdown** list *item*
-- Link [within](https://gitpitch.com) list item
-
+##### Front End
+@ul[spaced text-white]
+- React 
+- Redux for state management 
+- Hosted on Amazon s3 
 @ulend
 @snapend
 
-@snap[east span-50]
-@ul[square-bullets](false)
-
-- Plain text list item
-- Rich **markdown** list *item*
-- Link [within](https://gitpitch.com) list item
-
+@snap[west span-50]
+##### Back End
+@ul[spaced text-white]
+- Ruby/Rails 
+- Postgres
+- Redshift 
+- Redis
+- Resque Background Jobs on top of Redis 
+- Hosted on AWS EC2
+- Assets hosted on AWS s3 
+- Managed by Cloud66
 @ulend
 @snapend
 
 ---
 
-## Tech Stack 
+## Add Some Slide Candy
 
 ![](assets/img/presentation.png)
 
 ---
-
-## Tech Stack 
-
-![](assets/img/presentation.png)
-
----
-
 @title[Customize Slide Layout]
 
 @snap[west span-50]
