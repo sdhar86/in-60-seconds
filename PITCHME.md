@@ -4,7 +4,25 @@
 
 ## Tech Stack 
 
-![](assets/img/presentation.png)
+@snap[west span-50]
+@ul[square-bullets](false)
+
+- Plain text list item
+- Rich **markdown** list *item*
+- Link [within](https://gitpitch.com) list item
+
+@ulend
+@snapend
+
+@snap[east span-50]
+@ul[square-bullets](false)
+
+- Plain text list item
+- Rich **markdown** list *item*
+- Link [within](https://gitpitch.com) list item
+
+@ulend
+@snapend
 
 ---
 
