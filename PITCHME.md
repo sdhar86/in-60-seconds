@@ -28,9 +28,9 @@
 ---
 
 
-## Add Some Slide Candy
+## Beeswax Data Flow
 
-![](assets/img/presentation.png)
+![](assets/img/beeswax_data_flow.svg)
 
 ---
 @title[Customize Slide Layout]
