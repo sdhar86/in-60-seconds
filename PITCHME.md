@@ -30,7 +30,7 @@
 
 ## Beeswax Data Flow
 
-![](assets/img/beeswax_data_flow.svg)
+![](assets/img/beeswax_data_flow.png)
 
 ---
 @title[Customize Slide Layout]
